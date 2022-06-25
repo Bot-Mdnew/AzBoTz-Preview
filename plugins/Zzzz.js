@@ -4,9 +4,9 @@ let handler = async (m) => {
 let krizyn = `
 ╭─────[ *RULES* ]─────✧
 ┴
-│¹ Dilarang Hina zifabotz / Owner
+│¹ Dilarang Hina Danibotz / Owner
 │² Dilarang Spam Command
-│³ Dilarang Kirim Virtex ke zifabotz
+│³ Dilarang Kirim Virtex ke Danibotz
 │⁴ Dilarang Spam Menu Ga Jelas
 │⁵ Dilarang Telp / Vc
 │⁶ Dilarang Culik Bot
@@ -37,7 +37,7 @@ let krizyn = `
            hydratedButtons: [{
              urlButton: {
                displayText: '🎮GroupBot🎮',
-               url: 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
+               url: 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
              }
 
            },
