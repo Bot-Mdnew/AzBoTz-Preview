@@ -26,9 +26,9 @@ global.webm = '"_"'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 1 GRUP\n》PERMANEN  Rp 10.000\nMAKSIMAL 3 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/6b4b8ae2ba7f244626a6d.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/6b4b8ae2ba7f244626a6d.jpg' //ini juga ganti
-global.fotonya3 = 'https://telegra.ph/file/6b4b8ae2ba7f244626a6d.jpg'
+global.fotonya1 = 'https://telegra.ph/file/c7824625b68e0d3298294.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/c7824625b68e0d3298294.jpg' //ini juga ganti
+global.fotonya3 = 'https://telegra.ph/file/c7824625b68e0d3298294.jpg'
 global.donasi = 'https://telegra.ph/file/6b4b8ae2ba7f244626a6d.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
