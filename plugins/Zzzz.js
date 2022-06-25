@@ -44,7 +44,7 @@ let krizyn = `
                 {
                urlButton: {
                displayText: '🔮Myweb🔮',
-               url: 'https://istagram.com/zalfapontinanak'
+               url: 'https://github.com/Bot-Mdnew'
              }
 
            },
