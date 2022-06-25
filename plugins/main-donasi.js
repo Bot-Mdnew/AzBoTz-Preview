@@ -28,7 +28,7 @@ wa.me/${numberowner} (Owner)
            hydratedButtons: [{
              urlButton: {
                displayText: 'GroupBot',
-               url: 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
+               url: 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
              }
 
            },
