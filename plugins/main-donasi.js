@@ -35,7 +35,7 @@ wa.me/${numberowner} (Owner)
                 {
                urlButton: {
                displayText: 'Myweb',
-               url: 'https://istagram.com/zalfapontinanak'
+               url: 'https://github.com/Bot-Mdnew'
              }
 
            },
