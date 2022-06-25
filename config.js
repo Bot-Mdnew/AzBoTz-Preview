@@ -13,7 +13,7 @@ global.prems = ['6281251549899']
 global.nameowner = 'DaniKece'
 global.numberowner = '6281251549899'
 global.instagram = '"_"'
-global.github = 'https://github.com/AzRyCb'
+global.github = 'https://github.com/Bot-Mdnew'
 global.dana = '081251549899'
 global.pulsa = '081352848936'
 global.gopay = '081352848936'
@@ -21,8 +21,8 @@ global.gopay = '081352848936'
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙ DaniBoTz-MD⳹ ❋ཻུ۪۪'
 global.gc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
-global.web = 'https://github.com/AzRyCb' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/azrycb'
+global.web = 'https://github.com/Bot-Mdnew' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = '"_"'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 1 GRUP\n》PERMANEN  Rp 10.000\nMAKSIMAL 3 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
