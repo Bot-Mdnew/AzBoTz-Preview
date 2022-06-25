@@ -19,6 +19,9 @@ BIG THANKS TO
     📮 https://github.com/Botynyakamu
 ⤿ AzRyCb
     📮 https://github.com/AzRyCb
+⤿ DaniBotz
+    📮       
+      
     
 THANKS PARA DONASI YANG TERHORMAT
 `
