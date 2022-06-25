@@ -20,7 +20,7 @@ BIG THANKS TO
 ⤿ AzRyCb
     📮 https://github.com/AzRyCb
 ⤿ DaniBotz
-    📮       
+    📮 https://github.com/Bot-Mdnew    
       
     
 THANKS PARA DONASI YANG TERHORMAT
