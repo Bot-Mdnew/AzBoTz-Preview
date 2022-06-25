@@ -5,25 +5,25 @@
 // RECODE BY ZIFABOTZ and azbotz
 
 //=============『 Utama 』================== //
-global.owner = ['6285795035419'] 
-global.mods = ['6285795035419'] 
-global.prems = ['6285795035419'] 
+global.owner = ['6281251549899'] 
+global.mods = ['6281251549899'] 
+global.prems = ['6281251549899'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Az'
-global.numberowner = '6285795035419'
-global.instagram = 'https://instagram.com/azrycb'
+global.nameowner = 'DaniKece'
+global.numberowner = '6281251549899'
+global.instagram = '"_"'
 global.github = 'https://github.com/AzRyCb'
-global.dana = '085795035419'
-global.pulsa = '085795035419'
-global.gopay = '085722037770'
+global.dana = '081251549899'
+global.pulsa = '081352848936'
+global.gopay = '081352848936'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙ AzBoTz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
+global.namebot = '❋ཻུ۪۪⸙ DaniBoTz-MD⳹ ❋ཻུ۪۪'
+global.gc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
 global.web = 'https://github.com/AzRyCb' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/azrycb'
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 12.000\nMAKSIMAL 1 GRUP\n》PERMANEN  Rp 15.000\nMAKSIMAL 3 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 1 GRUP\n》PERMANEN  Rp 10.000\nMAKSIMAL 3 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/6b4b8ae2ba7f244626a6d.jpg' //ganti jadi foto bot mu
@@ -32,10 +32,10 @@ global.fotonya3 = 'https://telegra.ph/file/6b4b8ae2ba7f244626a6d.jpg'
 global.donasi = 'https://telegra.ph/file/6b4b8ae2ba7f244626a6d.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© ❋ཻུ۪۪⸙ AzBoTz-MD⳹ ❋ཻུ۪۪'
+global.wm = '© ❋ཻུ۪۪⸙ DaniBoTz-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ Creator by Oᵂηʀ᭄๖ۣۣۜAz꧅'
-global.wm3 = 'ᯤ Az 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ Creator by Oᵂηʀ᭄๖ۣۣۜDani꧅'
+global.wm3 = 'ᯤ Dani 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -45,8 +45,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'AzBoTz'
-global.author = '@Az'
+global.packname = 'DaniBoTz'
+global.author = '@DaniKece'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
